@@ -1,0 +1,23 @@
+package domain;
+
+public enum TypeSimilaryFunction {
+
+	TANIMOTO,
+	/*COSINE,
+	DICE,
+	CANBERRA,*/
+	
+	
+	/*SQUARED_EUCLIDEAN,
+	RUSSELL_RAD,
+	FORBES,
+	PEARSON,
+	DENNIS,
+	SOKAL_SNEATH,
+	KULCZYNSKI,
+	OCHIAI,
+	SORENSEN,
+	SOERGEL,
+	CZEKANOWSKI,
+	VICIS_WAVE,	*/
+}

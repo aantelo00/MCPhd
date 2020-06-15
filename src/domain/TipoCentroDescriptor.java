@@ -1,0 +1,14 @@
+package domain;
+
+public enum TipoCentroDescriptor {
+	ANILLO,
+	CLUSTER4,
+	CLUSTER3,
+	METINO,
+	METILENO,
+	METILO,
+	HETEROATOMO,
+	CARBONOCONECTADO,
+	NINGUNO
+
+}
